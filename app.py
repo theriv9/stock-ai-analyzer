@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 st.set_page_config(page_title="AI Stock Analyzer", layout="wide")
-st.title("AI Stock Analyzer – Your MVP")
+st.title("AI Stock Analyzer – MVP")
 st.markdown("**Your logic. Your code. Now live.**")
 
 # Sidebar Input
